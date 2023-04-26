@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="total_questions">Total Questions</string>
+    <string name="submit">Submit</string>
+    <string name="ans_c">Ans C</string>
+    <string name="ans_d">Ans D</string>
+    <string name="ans_b">Ans B</string>
+    <string name="ans_a">Ans A</string>
+</resources>
